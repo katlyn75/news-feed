@@ -1,7 +1,6 @@
 
 const KEY = 'fb4c4673400a4afbb04a5b318aead7fc';
-const NEWS_URL = 'https://newsapi.org/v2/';
-//const NEWS_URL = `https://newsapi.org/v2/top-headlines?apiKey=${KEY}`;
+const NEWS_URL = `https://newsapi.org/v2/top-headlines?sources=wired&apiKey=${KEY}`;
 
 const storage = window.localStorage;
 

@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/katlyn75/news-feed/issues"
   },
-  "homepage": "https://github.com/katlyn75/news-feed#readme"
+  "homepage": "https://github.com/katlyn75/news-feed#readme",
+  "dependencies": {
+    "newsapi": "^2.1.0"
+  }
 }

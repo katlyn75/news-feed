@@ -16,3 +16,10 @@ h2 {
 #search-box {
     margin-left: 2rem;
 }
+#root{
+    background-color: blue;
+    /* just trying for visible output */
+}
+head {
+    color:red;
+}
